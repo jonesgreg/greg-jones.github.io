@@ -5,7 +5,7 @@
 
 	}
 
-	.name,body,html {
+	.name {
 		font-family:Simplifica
 
 	}
@@ -66,11 +66,13 @@
 	}
 
     #scroller {
-		font-size:3vw;
+		font-size:1.25vw;
+		font-family: Libre Baskerville
 		position:fixed;
 		top:3vw;
 		left:4vw;
 		z-index:99
+
 
 	}
 
