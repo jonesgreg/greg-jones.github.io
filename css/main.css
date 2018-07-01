@@ -365,9 +365,8 @@
    	}#contactInfo{
    		font-size:1vw;margin:3vw auto 9vw;padding:2vw;width:75vw;text-align:center
 
-   /*	}#contactInfo a{
-   		margin:0 3vw;padding:1vw
-   		*/
+   	}#contactInfo a{
+   		margin:0 1.5vw;padding:1vw
 
    	}#contactInfo a:hover{
    		background-color:#f4f4f4
