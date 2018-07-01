@@ -67,7 +67,7 @@
 
     #scroller {
 		font-size:1.25vw;
-		font-family: Libre Baskerville
+		font: Libre Baskerville
 		position:fixed;
 		top:3vw;
 		left:4vw;
